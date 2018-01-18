@@ -1,0 +1,43 @@
+body {
+  font-family: "Helvetica", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14 px;
+}
+
+#company {
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.header {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+a {
+  color: white
+}
